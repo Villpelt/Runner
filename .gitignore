@@ -67,8 +67,8 @@ Build/*/**
 Runner/Saved/*
 
 # Compiled source files for the engine to use
-Intermediate/*
-Runner/Plugins/*/Intermediate/*
+Runner/Intermediate/*
+Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 Runner/DerivedDataCache/*
